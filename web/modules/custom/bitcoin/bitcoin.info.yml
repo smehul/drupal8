@@ -1,0 +1,5 @@
+name: Bitcoin
+type: module
+description: Commerce Bitcoin Payment Gateway.
+package: Custom
+core: 8.x

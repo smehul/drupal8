@@ -1,0 +1,11 @@
+<?php
+define("COMMERCE_BITCOIN_DEFAULT_MIN_TRANSACTIONS", 3);
+define("COMMERCE_BITCOIN_SATOSHI", 100000000);
+define("COMMERCE_BITCOIN_DEFAULT_SERVER_TYPE", 'Bitcoin daemon');
+define("COMMERCE_BITCOIN_DEFAULT_RATE_LOOKUP", 'blockchain.info');
+/**
+ * @file
+ * Provides a payment method and currency for Drupal Commerce via Bitcoin
+ *
+ */
+
