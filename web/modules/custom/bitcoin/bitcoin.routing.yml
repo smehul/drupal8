@@ -1,8 +1,0 @@
-bitcoin:
-  path: /commerce/payment
-
-  defaults:
-      _controller: 'Drupal\bitcoin\Controller\BitcoinPayment::display'
-      _title: 'Bitcoin Payment'
-  requirements:
-     _permission: 'access content'
